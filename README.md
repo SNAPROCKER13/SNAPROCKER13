@@ -26,10 +26,12 @@
 
 
 - 👋 Hi, I’m @SNAPROCKER13
-- 👀 I’m interested in Frontend
-- 🌱 I’m currently learning Coding
+- 👀 I’m interested in Frontend.
+- 🌱 I’m currently learning Coding.
+<!--- 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Theerawat_nap@hotmail.com
+--->
+- 📫 How to reach me Theerawat_nap@hotmail.com.
 
 ### :hammer_and_wrench: Languages and Tools :
 
